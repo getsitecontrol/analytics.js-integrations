@@ -35,6 +35,7 @@ module.exports = [
   require('./lib/fullstory'),
   require('./lib/gauges'),
   require('./lib/get-satisfaction'),
+  require('./lib/getsitecontrol'),
   require('./lib/google-analytics'),
   require('./lib/google-tag-manager'),
   require('./lib/gosquared'),
